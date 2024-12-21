@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+  background-color: #111111;
+  
+}
+
+.my-scrollbar::-webkit-scrollbar {
+  width: 0px; /* Scrollbar width */
+}
